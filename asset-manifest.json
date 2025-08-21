@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ravishkumar0521/ravish-resume.git/static/css/main.7f426a63.css",
+    "main.js": "/ravishkumar0521/ravish-resume.git/static/js/main.3e07d255.js",
+    "static/media/my-profile-img.png": "/ravishkumar0521/ravish-resume.git/static/media/my-profile-img.451bf6333a59d95d3329.png",
+    "static/media/hero-bg.png": "/ravishkumar0521/ravish-resume.git/static/media/hero-bg.77bd49f13285e4a30e67.png",
+    "static/media/bootstrap-icons.woff?": "/ravishkumar0521/ravish-resume.git/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
+    "static/media/bootstrap-icons.woff2?": "/ravishkumar0521/ravish-resume.git/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
+    "static/media/services.jpg": "/ravishkumar0521/ravish-resume.git/static/media/services.86282c87094a231b6e87.jpg",
+    "static/media/my-profile-img.webp": "/ravishkumar0521/ravish-resume.git/static/media/my-profile-img.2ce44fede63e0e385fd8.webp",
+    "index.html": "/ravishkumar0521/ravish-resume.git/index.html",
+    "main.7f426a63.css.map": "/ravishkumar0521/ravish-resume.git/static/css/main.7f426a63.css.map",
+    "main.3e07d255.js.map": "/ravishkumar0521/ravish-resume.git/static/js/main.3e07d255.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f426a63.css",
+    "static/js/main.3e07d255.js"
+  ]
+}

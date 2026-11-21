@@ -150,14 +150,14 @@ export default function Header() {
               <i className="bi bi-envelope navicon"></i> Contact
             </a>
           </li>
-          <li className={activeNavItem === "react_js" ? "current" : ""}>
+          {/* <li className={activeNavItem === "react_js" ? "current" : ""}>
             <a 
               href="#react_js" 
               onClick={() => handleNavClick("react_js")}
             >
               <i className="bi bi-code-slash navicon"></i> React Js
             </a>
-          </li>
+          </li> */}
         </ul>
       </nav>
     </header>

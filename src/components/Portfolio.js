@@ -9,173 +9,85 @@ const Portfolio = () => {
     // WordPress Websites
     {
       category: "filter-wordpress",
-      img: "assets/img/portfolio/app-1.jpg",
+      img: "images/Save-on-Dental-Supplies-Compare-Vendors-in-One-Cart-Torch-11-21-2026_04_23_AM.jpg",
       title: "Torch Dental",
-      desc: "WordPress Website • Dental care & practice site",
+      desc: "WordPress Website • Dental supply & procurement platform",
       gallery: "portfolio-gallery-wordpress",
       zoomTitle: "Torch Dental (WordPress)",
       link: "https://torchdental.com/",
     },
     {
       category: "filter-wordpress",
-      img: "assets/img/portfolio/app-2.jpg",
-      title: "Sorou Division Blog",
-      desc: "WordPress Website • Editorial & content blog",
-      gallery: "portfolio-gallery-wordpress",
-      zoomTitle: "Sorou Division Blog (WordPress)",
-      link: "https://www.soroudivision.com/blog/",
-    },
-    {
-      category: "filter-wordpress",
-      img: "assets/img/portfolio/app-3.jpg",
-      title: "Golden State Group",
-      desc: "WordPress Website • Corporate business website",
-      gallery: "portfolio-gallery-wordpress",
-      zoomTitle: "Golden State Group (WordPress)",
-      link: "https://goldenstategroup.org/",
-    },
-    {
-      category: "filter-wordpress",
-      img: "assets/img/portfolio/product-1.jpg",
-      title: "MeterNet USA",
-      desc: "WordPress Website • Utility & metering solutions",
-      gallery: "portfolio-gallery-wordpress",
-      zoomTitle: "MeterNet USA (WordPress)",
-      link: "https://meternetusa.com/",
-    },
-    {
-      category: "filter-wordpress",
-      img: "assets/img/portfolio/product-2.jpg",
-      title: "Cemproof Waterproofing",
-      desc: "WordPress Website • Waterproofing & construction services",
-      gallery: "portfolio-gallery-wordpress",
-      zoomTitle: "Cemproof Waterproofing (WordPress)",
-      link: "https://cemproof-waterproofing.com/",
-    },
-    {
-      category: "filter-wordpress",
-      img: "assets/img/portfolio/product-3.jpg",
+      img: "images/Your-Guide-to-Pagosa-Springs-Real-Estate-11-21-2026_04_30_AM.jpg",
       title: "Sherpa Real Estate",
-      desc: "WordPress Website • Real estate & property listings",
+      desc: "WordPress Website • Pagosa Springs real estate & property listings",
       gallery: "portfolio-gallery-wordpress",
       zoomTitle: "Sherpa Real Estate (WordPress)",
       link: "https://www.sherparealestate.com/",
     },
     {
       category: "filter-wordpress",
-      img: "assets/img/portfolio/branding-1.jpg",
-      title: "Nordic Stem Cell",
-      desc: "WordPress Website • Healthcare & stem cell clinic",
-      gallery: "portfolio-gallery-wordpress",
-      zoomTitle: "Nordic Stem Cell (WordPress)",
-      link: "https://nordicstemcell.com/",
-    },
-    {
-      category: "filter-wordpress",
-      img: "assets/img/portfolio/branding-2.jpg",
-      title: "Black Projects UP",
-      desc: "WordPress Website • Custom projects & brand showcase",
-      gallery: "portfolio-gallery-wordpress",
-      zoomTitle: "Black Projects UP (WordPress)",
-      link: "https://blackprojectsup.com/",
-    },
-    {
-      category: "filter-wordpress",
-      img: "assets/img/portfolio/branding-3.jpg",
-      title: "Curve Necessities",
-      desc: "WordPress Website • Lifestyle & essentials storefront",
-      gallery: "portfolio-gallery-wordpress",
-      zoomTitle: "Curve Necessities (WordPress)",
-      link: "https://curvenecessities.com/",
-    },
-    {
-      category: "filter-wordpress",
-      img: "assets/img/portfolio/books-1.jpg",
-      title: "Little Guy Loans",
-      desc: "WordPress Website • Financial & loan service portal",
-      gallery: "portfolio-gallery-wordpress",
-      zoomTitle: "Little Guy Loans (WordPress)",
-      link: "https://littleguyloans.com/",
-    },
-    {
-      category: "filter-wordpress",
-      img: "assets/img/portfolio/books-2.jpg",
-      title: "Hassane4 Staging",
-      desc: "WordPress Website • Custom theme & staging build",
-      gallery: "portfolio-gallery-wordpress",
-      zoomTitle: "Hassane4 Staging (WordPress)",
-      link: "https://hassane4.sg-host.com/",
-    },
-    {
-      category: "filter-wordpress",
-      img: "assets/img/portfolio/books-3.jpg",
-      title: "Dlux Cabinetry",
-      desc: "WordPress Website • Custom cabinetry & interior showcase",
-      gallery: "portfolio-gallery-wordpress",
-      zoomTitle: "Dlux Cabinetry (WordPress)",
-      link: "https://dluxcabinetry.com/",
-    },
-    {
-      category: "filter-wordpress",
-      img: "assets/img/portfolio/app-1.jpg",
-      title: "DeskSpot Request",
-      desc: "WordPress Website • Workspace inquiry & request portal",
-      gallery: "portfolio-gallery-wordpress",
-      zoomTitle: "DeskSpot Request (WordPress)",
-      link: "https://request.deskspot.in/",
-    },
-    {
-      category: "filter-wordpress",
-      img: "assets/img/portfolio/app-2.jpg",
-      title: "Maintak Corp",
-      desc: "WordPress / Storefront • Commerce & product catalog",
-      gallery: "portfolio-gallery-wordpress",
-      zoomTitle: "Maintak Corp (WordPress)",
-      link: "https://maintak-corp.myshopify.com/",
-    },
-    {
-      category: "filter-wordpress",
-      img: "assets/img/portfolio/app-3.jpg",
-      title: "Park Lane Plumbing",
-      desc: "WordPress Website • Local plumbing & service booking",
-      gallery: "portfolio-gallery-wordpress",
-      zoomTitle: "Park Lane Plumbing (WordPress)",
-      link: "https://parklaneplumbing.ca/",
-    },
-    {
-      category: "filter-wordpress",
-      img: "assets/img/portfolio/product-1.jpg",
+      img: "images/Moghra-11-21-2026_05_04_AM.jpg",
       title: "Moghra",
-      desc: "WordPress Website • Brand & business website",
+      desc: "WordPress Website • Irish headwear & e-commerce brand",
       gallery: "portfolio-gallery-wordpress",
       zoomTitle: "Moghra (WordPress)",
       link: "http://moghra.ie/",
     },
     {
       category: "filter-wordpress",
-      img: "assets/img/portfolio/product-2.jpg",
-      title: "EdenCann",
-      desc: "WordPress Website • Specialty wellness & product site",
-      gallery: "portfolio-gallery-wordpress",
-      zoomTitle: "EdenCann (WordPress)",
-      link: "https://edencann.com/",
-    },
-    {
-      category: "filter-wordpress",
-      img: "assets/img/portfolio/product-3.jpg",
+      img: "images/Screenshot_9.jpg",
       title: "ZippyVote",
-      desc: "WordPress Website • Digital voting & platform site",
+      desc: "WordPress Website • Online talent & video contest voting platform",
       gallery: "portfolio-gallery-wordpress",
       zoomTitle: "ZippyVote (WordPress)",
       link: "https://zippyvote.com/",
+    },
+    {
+      category: "filter-wordpress",
+      img: "images/About-OnCampus-College-Planning-11-21-2026_04_19_AM.jpg",
+      title: "OnCampus College Planning",
+      desc: "WordPress Website • Education consulting & ACT prep services",
+      gallery: "portfolio-gallery-wordpress",
+      zoomTitle: "OnCampus College Planning (WordPress)",
+      link: "https://oncampuscollegeplanning.com/",
+    },
+
+    // Shopify Stores
+    {
+      category: "filter-shopify",
+      img: "images/Screenshot_12.jpg",
+      title: "Covrd Shop",
+      desc: "Shopify • Trading card accessories & e-commerce store",
+      gallery: "portfolio-gallery-shopify",
+      zoomTitle: "Covrd Shop (Shopify)",
+      link: "https://covrd.shop/",
+    },
+    {
+      category: "filter-shopify",
+      img: "images/AYFstore-11-21-2026_04_55_AM.jpg",
+      title: "Anfa Store",
+      desc: "Shopify • Smart tech gadgets & mobile accessories store",
+      gallery: "portfolio-gallery-shopify",
+      zoomTitle: "Anfa Store (Shopify)",
+      link: "https://anfastore.nl/",
+    },
+    {
+      category: "filter-shopify",
+      img: "images/ZastaStudio-artistry-in-motion-11-21-2026_04_59_AM.jpg",
+      title: "Zasta Studio",
+      desc: "Shopify • Contemporary fashion, leather & footwear storefront",
+      gallery: "portfolio-gallery-shopify",
+      zoomTitle: "Zasta Studio (Shopify)",
+      link: "https://zastastudio.com/",
     },
 
     // Webflow
     {
       category: "filter-webflow",
-      img: "assets/img/portfolio/branding-1.jpg",
+      img: "images/Arts-DAO-A-curated-membership-community-pioneering-internet-culture-11-21-2026_04_48_AM.jpg",
       title: "ArtsDAO",
-      desc: "Webflow • Interactive creative & art community site",
+      desc: "Webflow • Curated web3 & internet culture membership community",
       gallery: "portfolio-gallery-webflow",
       zoomTitle: "ArtsDAO (Webflow)",
       link: "https://artsdao.webflow.io/",
@@ -184,41 +96,12 @@ const Portfolio = () => {
     // WordPress Gutenberg
     {
       category: "filter-gutenberg",
-      img: "assets/img/portfolio/books-1.jpg",
+      img: "images/Criminal-Defense-Family-Law-Attorney-Lake-Charles-LA-Jacob-Colonna-Colonna-Law-Firm-11-21-2026_04_38_AM.jpg",
       title: "Colonna Law Firm",
-      desc: "WordPress Gutenberg • Block-based legal practice site",
+      desc: "WordPress Gutenberg • Block-based legal & attorney website",
       gallery: "portfolio-gallery-gutenberg",
       zoomTitle: "Colonna Law Firm (WordPress Gutenberg)",
       link: "https://www.colonnalawfirm.com/",
-    },
-
-    // Shopify
-    {
-      category: "filter-shopify",
-      img: "assets/img/portfolio/branding-2.jpg",
-      title: "Covrd Shop",
-      desc: "Shopify • Custom e-commerce storefront",
-      gallery: "portfolio-gallery-shopify",
-      zoomTitle: "Covrd Shop (Shopify)",
-      link: "https://covrd.shop/",
-    },
-    {
-      category: "filter-shopify",
-      img: "assets/img/portfolio/branding-3.jpg",
-      title: "Anfa Store",
-      desc: "Shopify • Online retail & product store",
-      gallery: "portfolio-gallery-shopify",
-      zoomTitle: "Anfa Store (Shopify)",
-      link: "https://anfastore.nl/",
-    },
-    {
-      category: "filter-shopify",
-      img: "assets/img/portfolio/books-2.jpg",
-      title: "Zasta Studio",
-      desc: "Shopify • Studio & e-commerce storefront",
-      gallery: "portfolio-gallery-shopify",
-      zoomTitle: "Zasta Studio (Shopify)",
-      link: "https://zastastudio.com/",
     },
   ];
 
@@ -282,28 +165,36 @@ const Portfolio = () => {
               All
             </li>
             <li
-              className={activeFilter === "filter-wordpress" ? "filter-active" : ""}
+              className={
+                activeFilter === "filter-wordpress" ? "filter-active" : ""
+              }
               onClick={() => handleFilterClick("filter-wordpress")}
               style={{ cursor: "pointer" }}
             >
               WordPress
             </li>
             <li
-              className={activeFilter === "filter-shopify" ? "filter-active" : ""}
+              className={
+                activeFilter === "filter-shopify" ? "filter-active" : ""
+              }
               onClick={() => handleFilterClick("filter-shopify")}
               style={{ cursor: "pointer" }}
             >
               Shopify
             </li>
             <li
-              className={activeFilter === "filter-webflow" ? "filter-active" : ""}
+              className={
+                activeFilter === "filter-webflow" ? "filter-active" : ""
+              }
               onClick={() => handleFilterClick("filter-webflow")}
               style={{ cursor: "pointer" }}
             >
               Webflow
             </li>
             <li
-              className={activeFilter === "filter-gutenberg" ? "filter-active" : ""}
+              className={
+                activeFilter === "filter-gutenberg" ? "filter-active" : ""
+              }
               onClick={() => handleFilterClick("filter-gutenberg")}
               style={{ cursor: "pointer" }}
             >

@@ -11,7 +11,6 @@ import Skills from "./Skills";
 import Resume from "./Resume";
 import Portfolio from "./Portfolio";
 import Services from "./Services";
-import Testimonials from "./Testimonials";
 import ContactSection from "./ContactSection";
 
 
@@ -80,7 +79,6 @@ useEffect(() => {
         <Resume />
         <Portfolio />
         <Services />
-        <Testimonials />
         <ContactSection />
        
     </main>

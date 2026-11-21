@@ -30,9 +30,7 @@ const Resume = () => {
               <h4>Ravish Kumar</h4>
               <p>
                 <em>
-                  WordPress/PHP developer with hands-on experience building and maintaining
-                  responsive websites and e‑commerce solutions. Focused on quality, client
-                  collaboration, and timely delivery.
+                 Experienced WordPress & Shopify developer specializing in custom themes, WooCommerce stores, and fast, responsive websites. Dedicated to clear communication, reliable support, and on-time delivery.
                 </em>
               </p>
               <ul>
@@ -93,13 +91,16 @@ const Resume = () => {
             <h3 className="resume-title">Projects</h3>
             <div className="resume-item">
               <ul>
-                <li><a href="https://hipzone.in/" target="_blank" rel="noreferrer">hipzone.in</a></li>
-                <li><a href="https://dreamdressforless.ca/" target="_blank" rel="noreferrer">dreamdressforless.ca</a></li>
-                <li><a href="https://fordsiwal.com/" target="_blank" rel="noreferrer">fordsiwal.com</a></li>
-                <li><a href="https://pragtigarage.com/" target="_blank" rel="noreferrer">pragtigarage.com</a></li>
-                <li><a href="http://amelianoee.com/" target="_blank" rel="noreferrer">amelianoee.com</a></li>
-                <li><a href="https://neckloveper.com/" target="_blank" rel="noreferrer">neckloveper.com</a></li>
-                <li><a href="#" onClick={(e) => e.preventDefault()}>Additional project links available on request</a></li>
+                <li><a href="https://zastastudio.com/" target="_blank" rel="noreferrer">zastastudio.com</a></li>
+                <li><a href="https://anfastore.nl/" target="_blank" rel="noreferrer">anfastore.nl</a></li>
+                <li><a href="https://covrd.shop//" target="_blank" rel="noreferrer">covrd.shop</a></li>
+                <li><a href="https://torchdental.com/" target="_blank" rel="noreferrer">torchdental.com</a></li>
+                <li><a href="https://meternetusa.com/" target="_blank" rel="noreferrer">meternetusa.com</a></li>
+                <li><a href="https://cemproof-waterproofing.com/" target="_blank" rel="noreferrer">cemproof-waterproofing.com</a></li>
+                <li><a href="https://blackprojectsup.com/" target="_blank" rel="noreferrer">blackprojectsup.com</a></li>
+                <li><a href="https://zippyvote.com/" target="_blank" rel="noreferrer">zippyvote.com</a></li>
+                <li><a href="https://dluxcabinetry.com/" target="_blank" rel="noreferrer">dluxcabinetry.com</a></li>
+                
               </ul>
             </div>
 

@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/ravish-resume/static/css/main.ecbf8476.css",
-    "main.js": "/ravish-resume/static/js/main.feba2541.js",
+    "main.css": "/ravish-resume/static/css/main.4ad1fdb0.css",
+    "main.js": "/ravish-resume/static/js/main.d65c500c.js",
     "static/media/my-profile-img.png": "/ravish-resume/static/media/my-profile-img.451bf6333a59d95d3329.png",
     "static/media/hero-bg.png": "/ravish-resume/static/media/hero-bg.77bd49f13285e4a30e67.png",
     "static/media/bootstrap-icons.woff?": "/ravish-resume/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
     "static/media/bootstrap-icons.woff2?": "/ravish-resume/static/media/bootstrap-icons.b7bcc075b395c14ce8c2.woff2",
     "static/media/my-profile-img.webp": "/ravish-resume/static/media/my-profile-img.2ce44fede63e0e385fd8.webp",
     "index.html": "/ravish-resume/index.html",
-    "main.ecbf8476.css.map": "/ravish-resume/static/css/main.ecbf8476.css.map",
-    "main.feba2541.js.map": "/ravish-resume/static/js/main.feba2541.js.map"
+    "main.4ad1fdb0.css.map": "/ravish-resume/static/css/main.4ad1fdb0.css.map",
+    "main.d65c500c.js.map": "/ravish-resume/static/js/main.d65c500c.js.map"
   },
   "entrypoints": [
-    "static/css/main.ecbf8476.css",
-    "static/js/main.feba2541.js"
+    "static/css/main.4ad1fdb0.css",
+    "static/js/main.d65c500c.js"
   ]
 }

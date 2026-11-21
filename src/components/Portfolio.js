@@ -9,7 +9,7 @@ const Portfolio = () => {
     // WordPress Websites
     {
       category: "filter-wordpress",
-      img: "images/Save-on-Dental-Supplies-Compare-Vendors-in-One-Cart-Torch-11-21-2026_04_23_AM.jpg",
+      img: "${process.env.PUBLIC_URL}/images/Save-on-Dental-Supplies-Compare-Vendors-in-One-Cart-Torch-11-21-2026_04_23_AM.jpg",
       title: "Torch Dental",
       desc: "WordPress Website • Dental supply & procurement platform",
       gallery: "portfolio-gallery-wordpress",
@@ -18,7 +18,7 @@ const Portfolio = () => {
     },
     {
       category: "filter-wordpress",
-      img: "images/Your-Guide-to-Pagosa-Springs-Real-Estate-11-21-2026_04_30_AM.jpg",
+      img: "${process.env.PUBLIC_URL}/images/Your-Guide-to-Pagosa-Springs-Real-Estate-11-21-2026_04_30_AM.jpg",
       title: "Sherpa Real Estate",
       desc: "WordPress Website • Pagosa Springs real estate & property listings",
       gallery: "portfolio-gallery-wordpress",
@@ -27,7 +27,7 @@ const Portfolio = () => {
     },
     {
       category: "filter-wordpress",
-      img: "images/Moghra-11-21-2026_05_04_AM.jpg",
+      img: "${process.env.PUBLIC_URL}/images/Moghra-11-21-2026_05_04_AM.jpg",
       title: "Moghra",
       desc: "WordPress Website • Irish headwear & e-commerce brand",
       gallery: "portfolio-gallery-wordpress",
@@ -36,7 +36,7 @@ const Portfolio = () => {
     },
     {
       category: "filter-wordpress",
-      img: "images/Screenshot_9.jpg",
+      img: "${process.env.PUBLIC_URL}/images/Screenshot_9.jpg",
       title: "ZippyVote",
       desc: "WordPress Website • Online talent & video contest voting platform",
       gallery: "portfolio-gallery-wordpress",
@@ -45,7 +45,7 @@ const Portfolio = () => {
     },
     {
       category: "filter-wordpress",
-      img: "images/About-OnCampus-College-Planning-11-21-2026_04_19_AM.jpg",
+      img: "${process.env.PUBLIC_URL}/images/About-OnCampus-College-Planning-11-21-2026_04_19_AM.jpg",
       title: "OnCampus College Planning",
       desc: "WordPress Website • Education consulting & ACT prep services",
       gallery: "portfolio-gallery-wordpress",
@@ -56,7 +56,7 @@ const Portfolio = () => {
     // Shopify Stores
     {
       category: "filter-shopify",
-      img: "images/Screenshot_12.jpg",
+      img: "${process.env.PUBLIC_URL}/images/Screenshot_12.jpg",
       title: "Covrd Shop",
       desc: "Shopify • Trading card accessories & e-commerce store",
       gallery: "portfolio-gallery-shopify",
@@ -65,7 +65,7 @@ const Portfolio = () => {
     },
     {
       category: "filter-shopify",
-      img: "images/AYFstore-11-21-2026_04_55_AM.jpg",
+      img: "${process.env.PUBLIC_URL}/images/AYFstore-11-21-2026_04_55_AM.jpg",
       title: "Anfa Store",
       desc: "Shopify • Smart tech gadgets & mobile accessories store",
       gallery: "portfolio-gallery-shopify",
@@ -74,7 +74,7 @@ const Portfolio = () => {
     },
     {
       category: "filter-shopify",
-      img: "images/ZastaStudio-artistry-in-motion-11-21-2026_04_59_AM.jpg",
+      img: "${process.env.PUBLIC_URL}/images/ZastaStudio-artistry-in-motion-11-21-2026_04_59_AM.jpg",
       title: "Zasta Studio",
       desc: "Shopify • Contemporary fashion, leather & footwear storefront",
       gallery: "portfolio-gallery-shopify",
@@ -85,7 +85,7 @@ const Portfolio = () => {
     // Webflow
     {
       category: "filter-webflow",
-      img: "images/Arts-DAO-A-curated-membership-community-pioneering-internet-culture-11-21-2026_04_48_AM.jpg",
+      img: "${process.env.PUBLIC_URL}/images/Arts-DAO-A-curated-membership-community-pioneering-internet-culture-11-21-2026_04_48_AM.jpg",
       title: "ArtsDAO",
       desc: "Webflow • Curated web3 & internet culture membership community",
       gallery: "portfolio-gallery-webflow",
@@ -96,7 +96,7 @@ const Portfolio = () => {
     // WordPress Gutenberg
     {
       category: "filter-gutenberg",
-      img: "images/Criminal-Defense-Family-Law-Attorney-Lake-Charles-LA-Jacob-Colonna-Colonna-Law-Firm-11-21-2026_04_38_AM.jpg",
+      img: "${process.env.PUBLIC_URL}/images/Criminal-Defense-Family-Law-Attorney-Lake-Charles-LA-Jacob-Colonna-Colonna-Law-Firm-11-21-2026_04_38_AM.jpg",
       title: "Colonna Law Firm",
       desc: "WordPress Gutenberg • Block-based legal & attorney website",
       gallery: "portfolio-gallery-gutenberg",

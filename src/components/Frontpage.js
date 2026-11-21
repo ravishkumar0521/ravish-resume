@@ -13,7 +13,6 @@ import Portfolio from "./Portfolio";
 import Services from "./Services";
 import Testimonials from "./Testimonials";
 import ContactSection from "./ContactSection";
-import Reactjs from "./Reactjs";
 
 
 const Frontpage = () => {
@@ -83,7 +82,7 @@ useEffect(() => {
         <Services />
         <Testimonials />
         <ContactSection />
-        <Reactjs />
+       
     </main>
   );
 }
